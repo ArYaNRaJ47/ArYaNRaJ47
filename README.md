@@ -1,3 +1,4 @@
+![logo](https://github.com/ArYaNRaJ47/ArYaNRaJ47/blob/main/people-walking-japan-street-nighttime_23-2148942945.avif)
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" >
